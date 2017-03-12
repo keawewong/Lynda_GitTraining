@@ -1,2 +1,5 @@
 exploreCalifornia.sublime-project
 exploreCalifornia.sublime-workspace
+.DS_Store
+*.zip
+*.gz
